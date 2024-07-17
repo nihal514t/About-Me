@@ -1,9 +1,9 @@
 # Nihal
 this repository for who scrolling my profile without knowing me 
 #  About Me:
-👋 Hi, I’m Nihal, A Python-Dev, <br> 
+👋 Hi, I’m Nihal, A Python-Developer, <br> 
 || https://github.com/govind-superu<br>
-🌟 Off-late building some cool stuff with python <br>
+🌟 building some cool stuff with python <br>
 📫 Reach out to me at nihal514t@gmail.com
 
 
